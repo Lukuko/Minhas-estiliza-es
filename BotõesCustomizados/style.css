@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+}
+.github{
+    background-color: rgb(255, 0, 0);
+    width: 110px;
+    height: 35px;
+    border: 2px none;
+    border-radius: 8.5px;
+    padding-top: 10px 10px 10px 10px;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    transition: 0.5s all;
+}
+.discord{
+    background-color:#7289DA;
+    width: 110px;
+    height: 35px;
+    border: 2px none;
+    border-radius: 8.5px;
+    padding-top: 10px 10px 10px 10px;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    transition: 0.5s all;
+}
+.linkedin{
+    background-color:  #0072b1;
+    width: 110px;
+    height: 35px;
+    border: 2px none;
+    border-radius: 8.5px;
+    padding-top: 10px 10px 10px 10px;
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    transition: 0.5s all;
+}
+
+.github:hover{
+    color:  #fff;
+    transform:scale(105%);
+}
+.discord:hover{
+    color:  #fff;
+    transform:scale(105%);
+}
+.linkedin:hover{
+    color:  #fff;
+    transform:scale(105%);
+}
